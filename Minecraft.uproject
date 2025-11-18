@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{30F2B167-43C9-98CD-5DF9-B8A9F6AB7820}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Minecraft",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
