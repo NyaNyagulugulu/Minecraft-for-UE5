@@ -1,5 +1,17 @@
-.vs
-.vsconfig
-Saved
-Intermediate
-Binaries
+# 编译/中间文件
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.VC.db
+*.opensdf
+
+# 临时文件
+*.tmp
+*.log
